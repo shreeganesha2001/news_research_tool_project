@@ -5,6 +5,5 @@ unstructured==0.9.2
 faiss-cpu==1.7.4
 libmagic==1.0
 python-magic==0.4.27
-python-magic-bin==0.4.14
 protobuf~=3.19.0
 tiktoken==0.4.0
